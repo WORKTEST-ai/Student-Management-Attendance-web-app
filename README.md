@@ -597,7 +597,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repository if you find it helpful!**
 ** Developed by N.G Neel
 
-[Report Bug](https://github.com/WORKTEST-ai/sma-school-management/issues) · [Request Feature](https://github.com/WORKTEST-ai/sma-school-management/issues) · [Documentation](./docs)
+[Report Bug](https://github.com/WORKTEST-ai/Student-Management-Attendance-web-app/issues) · [Request Feature](https://github.com/WORKTEST-ai/Student-Management-Attendance-web-app/issues) · [Documentation](./docs)
 
 </div>
 
