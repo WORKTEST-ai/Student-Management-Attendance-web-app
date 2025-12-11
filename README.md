@@ -592,11 +592,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### 💖 Made with love for Educational Institutions
+### 💖 Made with love for Educational Institutions 
 
 **⭐ Star this repository if you find it helpful!**
+** Developed by N.G Neel
 
-[Report Bug](https://github.com/yourusername/sma-school-management/issues) · [Request Feature](https://github.com/yourusername/sma-school-management/issues) · [Documentation](./docs)
+[Report Bug](https://github.com/WORKTEST-ai/sma-school-management/issues) · [Request Feature](https://github.com/WORKTEST-ai/sma-school-management/issues) · [Documentation](./docs)
 
 </div>
 
