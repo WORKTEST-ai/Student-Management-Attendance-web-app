@@ -29,7 +29,7 @@ This Code of Conduct applies within all project spaces and when representing the
 
 ## Enforcement
 
-Instances of abusive behavior may be reported to: conduct@sma-school.com
+Instances of abusive behavior may be reported to: conduct@yourdomain
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -40,3 +40,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 ---
 
 *Last updated: December 11, 2024*
+
