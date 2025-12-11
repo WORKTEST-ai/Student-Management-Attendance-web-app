@@ -1,0 +1,61 @@
+# robots.txt for SMA - Student Management & Attendance
+# https://www.robotstxt.org/
+
+# Allow all crawlers
+User-agent: *
+
+# Allow public pages
+Allow: /
+
+# Disallow sensitive areas
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /teacher/
+Disallow: /student/
+Disallow: /privacy/
+Disallow: /_next/
+Disallow: /*.json$
+
+# Disallow authentication endpoints
+Disallow: /api/auth/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
+
+# Sitemap location (update with your actual domain)
+# Sitemap: https://your-domain.com/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /teacher/
+Disallow: /student/
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /teacher/
+Disallow: /student/
+
+# Block AI training bots (optional - uncomment if desired)
+# User-agent: GPTBot
+# Disallow: /
+
+# User-agent: ChatGPT-User
+# Disallow: /
+
+# User-agent: CCBot
+# Disallow: /
+
+# User-agent: anthropic-ai
+# Disallow: /
+
+# User-agent: Google-Extended
+# Disallow: /
